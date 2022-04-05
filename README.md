@@ -5,6 +5,12 @@ the private repository that is provided by programming hero is disturbing, And I
 
 - [x] the home page shows about the product that would be reviewd
 - [x] Our customer review section will show some of the reviews
-3) Load more will redirect to the full reviews page
-4) The dashboard will show two charts about sells and revenue
-5) Any link that is not recognized will show 404 error
+- [x] Load more will redirect to the full reviews page
+- [x] The dashboard will show two charts about sells and revenue
+- [x] Any link that is not recognized will show 404 error
+**tools used**
+- [x] REACT
+- [x] TAILWIND
+- [x] REACT ROUTING
+- [x] RECHARTS  
+- [x] Font Awesome
