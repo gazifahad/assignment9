@@ -1,0 +1,9 @@
+[
+    {"id":1, "name": "Sultan Mahmud", "comment": "A good measurment machine. You can buy it without hesitation", "rating": 4 },
+    {"id":2, "name": "Saiful Fahad", "comment": "It shows black lines in display sometimes. Other features are just fine.", "rating": 3 },
+    {"id":3, "name": "Fatima akhtar", "comment": "I thought it would be good, But didnot workout for me well, I do not know if everyone faces the same ", "rating": 1 },
+    {"id":4, "name": "Jabed Imam", "comment": "Looks good but heavy. It has many uniqe features like temperature,BP", "rating": 5 },
+    {"id":5, "name": "said khan", "comment": "NOt a good product to buy,Unworthy,waste of money!", "rating": 2 },
+    {"id":6, "name": "Shejan Hasan", "comment": "This tool is very helpful,I recommend it to everyone", "rating": 5 }
+    
+]
